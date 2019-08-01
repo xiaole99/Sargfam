@@ -1,5 +1,5 @@
 # Sargfam
-Copyright: LG209, Environmental Biotechnology Lab, The University of Hong Kong
+Copyright: LG209, Environmental Microbiome Engineering and Biotechnology Laboratory, The University of Hong Kong
 
 Author: Xiaole Yin, email: sdulele@163.com
 
